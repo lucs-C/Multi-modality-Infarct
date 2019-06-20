@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9e8764e-0d79-4168-81c3-ad4d6fdd3f58" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/tool/Make_CSV_File.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TrianImage.csv" />
+        <option value="$PROJECT_DIR$/Make_CSV_File.py" />
+        <option value="$PROJECT_DIR$/TrainImage.csv" />
+        <option value="$PROJECT_DIR$/TrainMask.csv" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Dataset/TrainImage.csv" />
+        <option value="$PROJECT_DIR$/Dataset/TrainMask.csv" />
+        <option value="$PROJECT_DIR$/Dataset/TrianImage.csv" />
+        <option value="$PROJECT_DIR$/Dataset/TrianMask.csv" />
+        <option value="$PROJECT_DIR$/Dataset/DWI/TrainImage.csv" />
+        <option value="$PROJECT_DIR$/Dataset/DWI/TrainMask.csv" />
+        <option value="$PROJECT_DIR$/unet2d/model_Infarct.py" />
+        <option value="$PROJECT_DIR$/tool/Make_CSV_File.py" />
+        <option value="$PROJECT_DIR$/unet2d/function.py" />
+        <option value="$PROJECT_DIR$/Dataset/train/TrainImage.csv" />
+        <option value="$PROJECT_DIR$/Dataset/train/TrainMask.csv" />
+        <option value="$PROJECT_DIR$/Unet2d_trian.py" />
+        <option value="$PROJECT_DIR$/Unet2d_test.py" />
+        <option value="$PROJECT_DIR$/Unet_trian.py" />
+        <option value="$PROJECT_DIR$/Unet_test.py" />
+        <option value="$PROJECT_DIR$/unet/model_Infarct.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="76" />
+    <option name="y" value="-39" />
+    <option name="width" value="1853" />
+    <option name="height" value="1076" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Unet2d--Infarct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Unet2d--Infarct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Unet2d--Infarct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Unet2d--Infarct" type="462c0819:PsiDirectoryNode" />
+              <item name="unet" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/ycr/SSD.TensorFlow-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tool" />
+      <recent name="$PROJECT_DIR$/model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Unet2d_test">
+    <configuration name="Make_CSV_File (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unet2d-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tool/Make_CSV_File.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Make_CSV_File" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unet2d-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Make_CSV_File.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unet2d_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unet2d-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unet2d_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unet2d_trian" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unet2d-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unet2d_trian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Make_CSV_File" />
+      <item itemvalue="Python.Unet2d_trian" />
+      <item itemvalue="Python.Unet2d_test" />
+      <item itemvalue="Python.Make_CSV_File (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Unet2d_test" />
+        <item itemvalue="Python.Make_CSV_File (1)" />
+        <item itemvalue="Python.Unet2d_trian" />
+        <item itemvalue="Python.Make_CSV_File" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9e8764e-0d79-4168-81c3-ad4d6fdd3f58" name="Default" comment="" />
+      <created>1560148050936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560148050936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20021075" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3155695" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36050156" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32810867" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/tensorflow/tensorflow/python/pywrap_tensorflow.py" />
+    <entry file="file://$PROJECT_DIR$/Make_CSV_File.py" />
+    <entry file="file://$PROJECT_DIR$/Dataset/GlandCeildata/test/Image/testA_31.bmp" />
+    <entry file="file://$PROJECT_DIR$/Dataset/GlandCeildata/test/Image/testA_14.bmp" />
+    <entry file="file://$PROJECT_DIR$/Dataset/GlandCeildata/test/Image/testA_48.bmp" />
+    <entry file="file://$PROJECT_DIR$/Dataset/GlandCeildata/train/Image/6.bmp" />
+    <entry file="file://$PROJECT_DIR$/Dataset/GlandCeildata/train/Image/6(1).bmp" />
+    <entry file="file://$PROJECT_DIR$/Dataset/GlandCeildata/train/Image/5(1).bmp" />
+    <entry file="file://$PROJECT_DIR$/Dataset/GlandCeildata/train/Image/4.bmp" />
+    <entry file="file://$PROJECT_DIR$/Dataset/GlandCeildata/train/Image/3(1).bmp" />
+    <entry file="file://$PROJECT_DIR$/Dataset/GlandCeildata/train/Image/2(1).bmp" />
+    <entry file="file://$PROJECT_DIR$/mask1.bmp" />
+    <entry file="file://$PROJECT_DIR$/Dataset/GlandCeildata/test/Image/testA_55.bmp" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow/lib/python3.6/tokenize.py" />
+    <entry file="file://$PROJECT_DIR$/tool/TrianMask.csv" />
+    <entry file="file://$PROJECT_DIR$/tool/TrianImage.csv" />
+    <entry file="file://$PROJECT_DIR$/Dataset/TrainMask.csv" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow/lib/python3.6/site-packages/tensorflow/python/ops/state_ops.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow/lib/python3.6/site-packages/tensorflow/python/training/saver.py" />
+    <entry file="file://$PROJECT_DIR$/TrainImage.csv" />
+    <entry file="file://$PROJECT_DIR$/TrainMask.csv" />
+    <entry file="file://$PROJECT_DIR$/Dataset/TrianMask.csv" />
+    <entry file="file://$PROJECT_DIR$/Dataset/TrianImage.csv" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow/lib/python3.6/site-packages/scipy/io/matlab/mio.py" />
+    <entry file="file://$PROJECT_DIR$/Dataset/DWI/TrainImage.csv" />
+    <entry file="file://$PROJECT_DIR$/Dataset/DWI/TrainMask.csv" />
+    <entry file="file://$PROJECT_DIR$/Dataset/TrainImage.csv" />
+    <entry file="file://$PROJECT_DIR$/unet2d/layer.py" />
+    <entry file="file://$PROJECT_DIR$/tool/TrainImage.csv" />
+    <entry file="file://$PROJECT_DIR$/tool/Make_CSV_File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow/lib/python3.6/site-packages/matplotlib/artist.py" />
+    <entry file="file://$PROJECT_DIR$/outresult/1.2.840.113619.186.216157103242140.20160506142524241.176_13_mask.bmp" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outresult/1.2.840.113619.186.216157103242140.20140401133515414.952_11_mask.bmp" />
+    <entry file="file://$PROJECT_DIR$/outresult/1.2.840.113619.186.216157103242140.20140601150022086.171_5_mask.bmp" />
+    <entry file="file://$PROJECT_DIR$/outresult/1.2.840.113619.186.216157103242140.20140929080631704.982_13_mask.bmp" />
+    <entry file="file://$PROJECT_DIR$/Dataset/train/TrainMask.csv" />
+    <entry file="file://$PROJECT_DIR$/Dataset/train/TrainImage.csv" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow/lib/python3.6/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/unet2d/function.py" />
+    <entry file="file://$PROJECT_DIR$/unet2d/model_Infarct.py" />
+    <entry file="file://$PROJECT_DIR$/outresult/camparationresult/1.2.840.113619.186.216157103242140.20130902084714854.289_6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outresult/predmask/1.2.840.113564.345050636177.30924.636614723253655528.138_12_mask.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unet2d_trian.py" />
+    <entry file="file://$PROJECT_DIR$/Unet2d_test.py" />
+    <entry file="file://$PROJECT_DIR$/Unet_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unet/function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unet/layer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unet/model_Infarct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#74#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unet_trian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
