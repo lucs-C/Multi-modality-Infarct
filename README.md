@@ -7,11 +7,12 @@ download trained data  ： Please email me with your question and the research y
 
 ## Result
 
-![](https://github.com/lucs-C/Multi-modality-Infarct/outresult/camparationresult/1.2.840.113619.186.216157103242140.20140122101812020.261_11.png)  
+![](https://github.com/lucs-C/Multi-modality-Infarct/tree/master/outresult/camparationresult/1.2.840.113619.186.216157103242140.20140122101812020.261_11.png)  
 
-![](https://github.com/lucs-C/Multi-modality-Infarct/outresult/camparationresult/1.2.840.113619.186.216157103242140.20151110120630299.700_15.png)  
+![](https://github.com/lucs-C/Multi-modality-Infarct/tree/master/outresult/camparationresult/1.2.840.113619.186.216157103242140.20151110120630299.700_15.png)  
 
-![](https://github.com/lucs-C/Multi-modality-Infarct/outresult/camparationresult/1.2.840.113619.186.216157103242140.20140606105445308.486_8.png)  
+![](https://github.com/lucs-C/Multi-modality-Infarct/tree/master/outresult/camparationresult/1.2.840.113619.186.216157103242140.20140606105445308.486_8.png)  
+
 ## Contact
 * https://github.com/lucs-C
 * email: 2997906313@qq.com
